@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'LoginPage1.dart';
-import 'SignUpPage.dart';
+import 'SignUpPage1.dart';
 
 void main() {
   runApp(const MyApp());
